@@ -1,0 +1,10 @@
+{
+  "slug": "hosei",
+  "name": "法政大学",
+  "short": "法政大",
+  "campus": "市ケ谷キャンパス",
+  "building": "ボアソナード・タワー",
+  "color": "#b74716",
+  "repository": "baudroie/hosei-career-info",
+  "url": "https://baudroie.github.io/hosei-career-info/"
+}
